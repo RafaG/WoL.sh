@@ -60,7 +60,7 @@ else
         targetport=9
     else
         targetip="255.255.255.255"
-        targetport=""
+        targetport=9
     fi
     
     # Send magic packet
